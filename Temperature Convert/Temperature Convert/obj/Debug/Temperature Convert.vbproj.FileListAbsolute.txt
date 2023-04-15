@@ -1,0 +1,11 @@
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\bin\Debug\Temperature Convert.exe.config
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\bin\Debug\Temperature Convert.exe
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\bin\Debug\Temperature Convert.pdb
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\bin\Debug\Temperature Convert.xml
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\obj\Debug\Temperature Convert.vbprojResolveAssemblyReference.cache
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\obj\Debug\Temperature_Convert.Form1.resources
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\obj\Debug\Temperature_Convert.Resources.resources
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\obj\Debug\Temperature Convert.vbproj.GenerateResource.Cache
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\obj\Debug\Temperature Convert.exe
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\obj\Debug\Temperature Convert.xml
+P:\Utilities\Visual Studio 2015\Temperature Convert\Temperature Convert\obj\Debug\Temperature Convert.pdb
